@@ -10,7 +10,7 @@ This is a list of all of my publications so far (last updated August 9, 2021):
 
 <ol>
     <li>Rob Churchill and Lisa Singh. Temporal Topic-Noise Models for Social Media Data Sets. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022. <a href="/papers/dynamic_topic_noise_models.pdf">(pdf)</a>
-    <li>Rob Churchill, Lisa Singh, Rebecca Ryan, and Pamela Davis-Kean. A Guided Topic Model for Social Media Data. In The Web Conference (WWW), 2022. <a href="papers/guided_topic_model.pdf">(pdf)</a>
+    <li>Rob Churchill, Lisa Singh, Rebecca Ryan, and Pamela Davis-Kean. A Guided Topic Model for Social Media Data. In The Web Conference (WWW), 2022. <a href="/papers/guided_topic_model.pdf">(pdf)</a>
     <li>(Doctoral Thesis) Rob Churchill. Modernizing Topic Models: Accounting for Noise, Time, and Domain Knowledge. Diss. Georgetown University, 2021. <a href="/papers/modernizing_topic_models.pdf">(pdf)</a>
     <li>Jaren Haber, Lisa Singh, Ceren Budak, Josh Pasek, Meena Balan, Ryan Callahan, Rob Churchill, Brandon Herren, Kornraphop Kawintiranon. Research Note: Lies and presidential debates: How political misinformation spread across media streams during the 2020 election. Harvard Kennedy School Misinformation Review, 2021. <a href="https://misinforeview.hks.harvard.edu/article/research-note-lies-and-presidential-debates-how-political-misinformation-spread-across-media-streams-during-the-2020-election/">(html)</a>
     <li>Rob Churchill and Lisa Singh. Topic-Noise Models: Modeling Topic and Noise Distributions in Social Media Post Collections. In International Conference on Data Mining (ICDM), 2021. <a href="/papers/topic_noise_models.pdf">(pdf)</a>
