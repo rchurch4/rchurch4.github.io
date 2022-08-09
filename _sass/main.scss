@@ -1,0 +1,84 @@
+@charset "utf-8";
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+$family-sans-serif: 'Open Sans', sans-serif;
+$family-serif: 'Kaushan Script', cursive;
+$family-primary: $family-sans-serif;
+$family-secondary: $family-serif;
+$title-family: $family-secondary;
+h1, h2, h3, h4, h5, h6 {
+  font-family: $family-secondary;
+}
+
+// Colours
+$primary: #4fa6a3 !default;
+$dark: #363636;
+$light: #f6f6f6;
+$white: #ffffff;
+
+//Cards
+$card-shadow: none;
+$card-footer-border-top: none;
+$card-background-color: $light;
+
+//// Pagination
+//$pagination-focus-border-color: $dark;
+//$pagination-current-color: $white;
+//$pagination-current-background-color: $dark;
+//$pagination-current-border-color: $dark;
+
+// Radius
+$radius: 0;
+$radius-large: 0;
+$radius-small: 0;
+
+$spacing-unit:     30px !default;
+
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+$on-medium:        $on-palm !default;
+$on-large:         $on-laptop !default;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: #{$ratio}rem;
+}
+
+$brand-color:           #828282 !default;
+$brand-color-light:     lighten($brand-color, 40%) !default;
+$brand-color-dark:      darken($brand-color, 25%) !default;
+
+$site-title-color:      $brand-color-dark !default;
+
+$text-color:            #111111 !default;
+$background-color:      #fdfdfd !default;
+$code-background-color: #eeeeff !default;
+
+$link-base-color:       #2a7ae2 !default;
+$link-visited-color:    darken($link-base-color, 15%) !default;
+$link-hover-color:      $text-color !default;
+
+$border-color-01:       $brand-color-light !default;
+$border-color-02:       lighten($brand-color, 35%) !default;
+$border-color-03:       $brand-color-dark !default;
+
+$table-text-color:      lighten($text-color, 18%) !default;
+$table-zebra-color:     lighten($brand-color, 46%) !default;
+$table-header-bg-color: lighten($brand-color, 43%) !default;
+$table-header-border:   lighten($brand-color, 37%) !default;
+$table-border-color:    $border-color-01 !default;
+
+@import "../node_modules/bulma/bulma.sass";
+@import "layout";
+@import "syntax";
+@import "intro";

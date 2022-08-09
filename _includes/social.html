@@ -1,0 +1,23 @@
+{%- assign social = site.social_links -%}
+
+<div class="social-media-list">
+  {%- if social.github -%}
+    <div class="svg-div">
+      <a rel="me" href="https://github.com/{{ social.github | cgi_escape | escape }}" target="_blank" title="{{ social.github | escape }}">
+        <img class="svg-icon" alt="github link" src="{{ '/assets/images/github.png' | relative_url }}"/>
+      </a>
+    </div>
+  {%- endif -%}
+  {%- if social.stackoverflow -%}
+    <div class="svg-div">
+      <a rel="me" href="https://stackoverflow.com/users/{{ social.stackoverflow | cgi_escape | escape }}" target="_blank" title="{{ social.stackoverflow | escape }}">
+        <img class="svg-icon" alt="stackoverflow link" src="{{ '/assets/images/stackoverflow.png' | relative_url }}"/>
+      </a>
+    </div>{%- endif -%}
+  {%- if social.linkedin -%}
+    <div class="svg-div">
+      <a rel="me" href="https://www.linkedin.com/in/{{ social.linkedin | cgi_escape | escape }}" target="_blank" title="{{ social.linkedin | escape }}">
+        <img class="svg-icon" alt="linkedin link" src="{{ '/assets/images/linkedin.png' | relative_url }}"/>
+      </a>
+    </div>{%- endif -%}
+</div>
