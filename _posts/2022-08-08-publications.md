@@ -19,4 +19,3 @@ This is a list of all of my publications so far (last updated August 9, 2021):
     <li>Rob Churchill and Lisa Singh. Percolation-based topic modeling for tweets. In KDD Workshop on Issues of Sentiment Discovery and Opinion Mining (WISDOM), 2020. <a href="/papers/percolation_based_topic_modeling.pdf">(pdf)</a>
     <li>Rob Churchill, Lisa Singh, and Josh Pasek. The impact of pre-processing classes on meaningful topics from online text data. In MIDAS Symposium, 2018. 
     <li>Rob Churchill, Lisa Singh, and Christo Kirov. A temporal topic model for noisy mediums. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2018. <a href="/papers/temporal_topic_model_for_noisy_mediums.pdf">(pdf)</a>
-</ol>
