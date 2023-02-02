@@ -9,7 +9,7 @@ hero_height: is-large
 This is a list of all of my publications so far (last updated August 9, 2021):
 
 <ol>
-    <li>Rob Churchill and Lisa Singh. Using topic-noise models to generate domain-specific topics across data sources. In Knowledge and Information Systems (KAIS), 2023. <a href="#">(pdf)</a>
+    <li>Rob Churchill and Lisa Singh. Using topic-noise models to generate domain-specific topics across data sources. In Knowledge and Information Systems (KAIS), 2023. <a href="/papers/kais2023_arxiv.pdf">(pdf)</a>
     <li>Rob Churchill and Lisa Singh. Temporal Topic-Noise Models for Social Media Data Sets. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022. <a href="/papers/dynamic_topic_noise_models.pdf">(pdf)</a>
     <li>Rob Churchill, Lisa Singh, Rebecca Ryan, and Pamela Davis-Kean. A Guided Topic Model for Social Media Data. In The Web Conference (WWW), 2022. <a href="/papers/guided_topic_model.pdf">(pdf)</a>
     <li>(Doctoral Thesis) Rob Churchill. Modernizing Topic Models: Accounting for Noise, Time, and Domain Knowledge. Diss. Georgetown University, 2021. <a href="/papers/modernizing_topic_models.pdf">(pdf)</a>
