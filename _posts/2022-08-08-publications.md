@@ -6,7 +6,7 @@ thumbnail: /assets/images/badlands.jpg
 hero_height: is-large
 ---
 
-This is a list of all of my publications so far (last updated August 9, 2021):
+This is a list of all of my publications so far (last updated December 2023):
 
 <ol>
     <li>Rob Churchill and Lisa Singh. Using topic-noise models to generate domain-specific topics across data sources. In Knowledge and Information Systems (KAIS), 2023. <a href="/papers/kais2023_arxiv.pdf">(pdf)</a>
