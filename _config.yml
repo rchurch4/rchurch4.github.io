@@ -17,7 +17,7 @@ title: Rob Churchill
 email: rjc111@georgetown.edu
 description: Rob Churchill has a Ph.D. in Computer Science from Georgetown University.  His dissertation topic was Modernizing Topic Models Accounting for Noise, Time, and Domain Knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://rchurch4.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://rob.churchillfamily.org # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rchurch4
 
 social_links:
